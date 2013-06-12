@@ -1,0 +1,3 @@
+http://nanddonet.wordpress.com/2012/02/10/specification-pattern/
+http://www.citerus.se/post/1165770-specification-pattern-as-a-refactoring-tool
+http://lostechies.com/chrismissal/2009/09/11/using-the-specification-pattern-for-querying/
