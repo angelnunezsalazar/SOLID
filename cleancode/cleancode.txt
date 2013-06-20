@@ -1,0 +1,20 @@
+Casi todo el código que escribimos en se encuentra 
+dentro de una función y son la primera capa de organización
+
+Una frase que explique todo el principio, de un ejemplo de código, por qué, preguntas secretas o del público
+
+- Small (9.30)
+Te vas a perder en pequeñas funciones?
+Tienen nombres claros 
+Métafora de Geografía. (20:00)
+Function Call Overhead? (25:00)
+Tomar más tiempo en escribir esas pequeñas funciones? (26:30)
+- Donde se esconden las clases (28:15)
+
+Literal Programming (31:00)
+- Dividirlo en clases
+
+One Thing (36)
+
+
+
