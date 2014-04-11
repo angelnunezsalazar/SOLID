@@ -1,3 +1,4 @@
 http://blogs.msdn.com/b/jowardel/archive/2008/09/09/using-the-model-view-presenter-mvp-design-pattern-to-enable-presentational-interoperability-and-increased-testability.aspx
 http://code.msdn.microsoft.com/Design-Patterns-MVp-Model-3b691ddc?goback=%2Egde_4617448_member_174018461
 http://msdn.microsoft.com/en-us/library/ff649571.aspx
+http://codemanship.co.uk/parlezuml/blog/?postid=1150
